@@ -1,0 +1,2 @@
+# fasttext_classification_ch
+使用fasttext进行中文文本分类
