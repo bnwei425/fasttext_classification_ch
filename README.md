@@ -4,5 +4,5 @@
 可将繁体中文转为简体中文
 
 Chinese texte classification with Fasttext  
-'__label__' + label by default  
+'\__label\__' + label by default  
 Interconversion between Simplified and Traditional Chinese is possible  
